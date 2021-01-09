@@ -7,3 +7,5 @@ The Five-levels:
    - Level 3: Generally corresponding to Grades 4-5
    - Level 4: Generally corresponding to Grades 6-8
    - Level 5: This level reflects specialist language use beyond the eighth grade
+Our List:
+in order to compare we considerd A1 as 1, A2 as 2, B1 as 3, B2 as 4, C1&C2 as 5.
